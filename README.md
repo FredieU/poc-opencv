@@ -1,4 +1,5 @@
 # POC OpenCV Scripts
+A collection of scripts to manipulate images or a video feed for Machine Learning.
 
 ## Setup
 ```sh
